@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: bisque;
+}
+header img{
+  width: 100%;
+}
+header h2{
+  text-align: center;
+  margin-top: -400px;
+}
+#about {
+  background: #ebebeb;
+}
+#about .inner {
+  width: 1300px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 100px;
+  background: #ffffff;
+}
+#about h2 {
+  text-align: center;
+  margin: 0 0 24px;
+}
